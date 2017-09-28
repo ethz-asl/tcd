@@ -1,0 +1,5 @@
+*.bak
+camera/camera-rescue.lib
+camera/camera.kicad_pcb
+lidar/lidar.kicad_pcb
+lidar/lidar.xml
